@@ -1,5 +1,4 @@
-# Multilingual Assistant 
-MULTILINGUAL AI VOICE ASSISTANT
+# MULTILINGUAL AI VOICE ASSISTANT
 
 Multilingual AI Voice Assistant. This tool is designed to understand and respond in multiple languages, making technology more accessible and connecting people across different cultures.
 
